@@ -1,0 +1,37 @@
+﻿  PathSearch.cpp
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\Pathfinding\PathSearch\PathSearch.cpp(21,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\Pathfinding\PathSearch\PathSearch.cpp(154,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\Pathfinding\PathSearch\PathSearch.cpp(159,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\Pathfinding\PathSearch\PathSearch.cpp(65,9): warning C4101: 'hc': unreferenced local variable
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\Pathfinding\PathSearch\PathSearch.cpp(46,15): warning C4101: 'node': unreferenced local variable
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\Pathfinding\PathSearch\PathSearch.cpp(68,22): warning C4101: 'test': unreferenced local variable
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\Pathfinding\PathSearch\PathSearch.cpp(212,10): warning C4101: 'hc': unreferenced local variable
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\Pathfinding\PathSearch\PathSearch.cpp(210,9): warning C4101: 'cost': unreferenced local variable
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\Pathfinding\PathSearch\PathSearch.cpp(211,15): warning C4101: 'update': unreferenced local variable
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\Pathfinding\PathSearch\PathSearch.cpp(329,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\Pathfinding\PathSearch\PathSearch.cpp(376,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\Pathfinding\PathSearch\PathSearch.cpp(402,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\Pathfinding\PathSearch\PathSearch.cpp(432,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\Pathfinding\PathSearch\PathSearch.cpp(495,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\Pathfinding\PathSearch\PathSearch.cpp(536,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\Pathfinding\PathSearch\PathSearch.cpp(550,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\Pathfinding\PathSearch\PathSearch.cpp(574,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\Pathfinding\PathSearch\PathSearch.cpp(610,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\Pathfinding\PathSearch\PathSearch.cpp(651,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\Pathfinding\PathSearch\PathSearch.cpp(664,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\Pathfinding\PathSearch\PathSearch.cpp(667,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\Pathfinding\PathSearch\PathSearch.cpp(700,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\Pathfinding\PathSearch\PathSearch.cpp(742,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\Pathfinding\PathSearch\PathSearch.cpp(764,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\Pathfinding\PathSearch\PathSearch.cpp(794,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\Pathfinding\PathSearch\PathSearch.cpp(797,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\Pathfinding\PathSearch\PathSearch.cpp(300,44): warning C4101: 'nodesCreated': unreferenced local variable
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\Pathfinding\PathSearch\PathSearch.cpp(300,87): warning C4101: 'nodesConstructed': unreferenced local variable
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\Pathfinding\PathSearch\PathSearch.cpp(300,18): warning C4101: 'heuristicCost': unreferenced local variable
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\Pathfinding\PathSearch\PathSearch.cpp(300,105): warning C4101: 'nodesDestructed': unreferenced local variable
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\Pathfinding\PathSearch\PathSearch.cpp(300,7): warning C4101: 'givenCost': unreferenced local variable
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\Pathfinding\PathSearch\PathSearch.cpp(300,33): warning C4101: 'finalCost': unreferenced local variable
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\Pathfinding\PathSearch\PathSearch.cpp(300,58): warning C4101: 'openNodes': unreferenced local variable
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\Pathfinding\PathSearch\PathSearch.cpp(301,16): warning C4101: 'color': unreferenced local variable
+     Creating library C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\Pathfinding\Debug\PathSearch.lib and object C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\Pathfinding\Debug\PathSearch.exp
+  PathSearch.vcxproj -> C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\Pathfinding\Debug\PathSearch.dll

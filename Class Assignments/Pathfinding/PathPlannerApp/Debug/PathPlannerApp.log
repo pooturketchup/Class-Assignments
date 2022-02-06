@@ -1,0 +1,4 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  PathPlannerLab.cpp
+PathPlannerLab.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  PathPlannerApp.vcxproj -> C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\Pathfinding\Debug\PathPlannerApp.exe

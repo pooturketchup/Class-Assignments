@@ -1,0 +1,39 @@
+﻿  PathSearch.cpp
+C:\Users\Nolan\OneDrive\Documents\AI\Lab Projects\B - Path Planner\Project\PathSearch\PathSearch.cpp(21,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nolan\OneDrive\Documents\AI\Lab Projects\B - Path Planner\Project\PathSearch\PathSearch.cpp(65,9): warning C4101: 'hc': unreferenced local variable
+C:\Users\Nolan\OneDrive\Documents\AI\Lab Projects\B - Path Planner\Project\PathSearch\PathSearch.cpp(66,7): warning C4101: 'cost': unreferenced local variable
+C:\Users\Nolan\OneDrive\Documents\AI\Lab Projects\B - Path Planner\Project\PathSearch\PathSearch.cpp(46,15): warning C4101: 'node': unreferenced local variable
+C:\Users\Nolan\OneDrive\Documents\AI\Lab Projects\B - Path Planner\Project\PathSearch\PathSearch.cpp(65,7): warning C4101: 'w': unreferenced local variable
+C:\Users\Nolan\OneDrive\Documents\AI\Lab Projects\B - Path Planner\Project\PathSearch\PathSearch.cpp(254,15): warning C4101: 'update': unreferenced local variable
+C:\Users\Nolan\OneDrive\Documents\AI\Lab Projects\B - Path Planner\Project\PathSearch\PathSearch.cpp(372,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nolan\OneDrive\Documents\AI\Lab Projects\B - Path Planner\Project\PathSearch\PathSearch.cpp(419,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nolan\OneDrive\Documents\AI\Lab Projects\B - Path Planner\Project\PathSearch\PathSearch.cpp(445,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nolan\OneDrive\Documents\AI\Lab Projects\B - Path Planner\Project\PathSearch\PathSearch.cpp(475,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nolan\OneDrive\Documents\AI\Lab Projects\B - Path Planner\Project\PathSearch\PathSearch.cpp(538,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nolan\OneDrive\Documents\AI\Lab Projects\B - Path Planner\Project\PathSearch\PathSearch.cpp(579,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nolan\OneDrive\Documents\AI\Lab Projects\B - Path Planner\Project\PathSearch\PathSearch.cpp(593,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nolan\OneDrive\Documents\AI\Lab Projects\B - Path Planner\Project\PathSearch\PathSearch.cpp(617,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nolan\OneDrive\Documents\AI\Lab Projects\B - Path Planner\Project\PathSearch\PathSearch.cpp(653,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nolan\OneDrive\Documents\AI\Lab Projects\B - Path Planner\Project\PathSearch\PathSearch.cpp(694,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nolan\OneDrive\Documents\AI\Lab Projects\B - Path Planner\Project\PathSearch\PathSearch.cpp(707,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nolan\OneDrive\Documents\AI\Lab Projects\B - Path Planner\Project\PathSearch\PathSearch.cpp(710,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nolan\OneDrive\Documents\AI\Lab Projects\B - Path Planner\Project\PathSearch\PathSearch.cpp(743,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nolan\OneDrive\Documents\AI\Lab Projects\B - Path Planner\Project\PathSearch\PathSearch.cpp(785,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nolan\OneDrive\Documents\AI\Lab Projects\B - Path Planner\Project\PathSearch\PathSearch.cpp(807,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nolan\OneDrive\Documents\AI\Lab Projects\B - Path Planner\Project\PathSearch\PathSearch.cpp(837,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nolan\OneDrive\Documents\AI\Lab Projects\B - Path Planner\Project\PathSearch\PathSearch.cpp(840,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nolan\OneDrive\Documents\AI\Lab Projects\B - Path Planner\Project\PathSearch\PathSearch.cpp(343,44): warning C4101: 'nodesCreated': unreferenced local variable
+C:\Users\Nolan\OneDrive\Documents\AI\Lab Projects\B - Path Planner\Project\PathSearch\PathSearch.cpp(343,87): warning C4101: 'nodesConstructed': unreferenced local variable
+C:\Users\Nolan\OneDrive\Documents\AI\Lab Projects\B - Path Planner\Project\PathSearch\PathSearch.cpp(343,18): warning C4101: 'heuristicCost': unreferenced local variable
+C:\Users\Nolan\OneDrive\Documents\AI\Lab Projects\B - Path Planner\Project\PathSearch\PathSearch.cpp(343,105): warning C4101: 'nodesDestructed': unreferenced local variable
+C:\Users\Nolan\OneDrive\Documents\AI\Lab Projects\B - Path Planner\Project\PathSearch\PathSearch.cpp(343,7): warning C4101: 'givenCost': unreferenced local variable
+C:\Users\Nolan\OneDrive\Documents\AI\Lab Projects\B - Path Planner\Project\PathSearch\PathSearch.cpp(343,33): warning C4101: 'finalCost': unreferenced local variable
+C:\Users\Nolan\OneDrive\Documents\AI\Lab Projects\B - Path Planner\Project\PathSearch\PathSearch.cpp(343,58): warning C4101: 'openNodes': unreferenced local variable
+C:\Users\Nolan\OneDrive\Documents\AI\Lab Projects\B - Path Planner\Project\PathSearch\PathSearch.cpp(344,16): warning C4101: 'color': unreferenced local variable
+     Creating library C:\Users\Nolan\OneDrive\Documents\AI\Lab Projects\B - Path Planner\Project\Release\PathSearch.lib and object C:\Users\Nolan\OneDrive\Documents\AI\Lab Projects\B - Path Planner\Project\Release\PathSearch.exp
+  Generating code
+  1 of 700 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  PathSearch.vcxproj -> C:\Users\Nolan\OneDrive\Documents\AI\Lab Projects\B - Path Planner\Project\Release\PathSearch.dll

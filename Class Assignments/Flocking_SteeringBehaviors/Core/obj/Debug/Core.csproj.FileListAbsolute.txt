@@ -1,0 +1,6 @@
+C:\Users\Nolan\OneDrive\Documents\AI\Lab Projects\C - Flocking\Project\Core\bin\Debug\CoreAI.dll
+C:\Users\Nolan\OneDrive\Documents\AI\Lab Projects\C - Flocking\Project\Core\bin\Debug\CoreAI.pdb
+C:\Users\Nolan\OneDrive\Documents\AI\Lab Projects\C - Flocking\Project\Core\obj\Debug\Core.csproj.AssemblyReference.cache
+C:\Users\Nolan\OneDrive\Documents\AI\Lab Projects\C - Flocking\Project\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\Nolan\OneDrive\Documents\AI\Lab Projects\C - Flocking\Project\Core\obj\Debug\CoreAI.dll
+C:\Users\Nolan\OneDrive\Documents\AI\Lab Projects\C - Flocking\Project\Core\obj\Debug\CoreAI.pdb

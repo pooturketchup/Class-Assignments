@@ -1,0 +1,25 @@
+﻿  main.cpp
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\InterpolatedRotatingTriangle\CGSLab3\shaders.h(9,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\InterpolatedRotatingTriangle\CGSLab3\shaders.h(10,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\InterpolatedRotatingTriangle\CGSLab3\shaders.h(28,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\InterpolatedRotatingTriangle\CGSLab3\shaders.h(29,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\InterpolatedRotatingTriangle\CGSLab3\shaders.h(30,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\InterpolatedRotatingTriangle\CGSLab3\Draw.h(32,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\InterpolatedRotatingTriangle\CGSLab3\Draw.h(32,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\InterpolatedRotatingTriangle\CGSLab3\Draw.h(32,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\InterpolatedRotatingTriangle\CGSLab3\Draw.h(32,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\InterpolatedRotatingTriangle\CGSLab3\Draw.h(33,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\InterpolatedRotatingTriangle\CGSLab3\Draw.h(33,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\InterpolatedRotatingTriangle\CGSLab3\Draw.h(33,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\InterpolatedRotatingTriangle\CGSLab3\Draw.h(33,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\InterpolatedRotatingTriangle\CGSLab3\Draw.h(34,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\InterpolatedRotatingTriangle\CGSLab3\Draw.h(34,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\InterpolatedRotatingTriangle\CGSLab3\Draw.h(34,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\InterpolatedRotatingTriangle\CGSLab3\Draw.h(34,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\InterpolatedRotatingTriangle\CGSLab3\main.cpp(10,25): warning C4838: conversion from 'unsigned int' to 'float' requires a narrowing conversion
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\InterpolatedRotatingTriangle\CGSLab3\main.cpp(10,36): warning C4305: 'initializing': truncation from 'unsigned int' to 'float'
+  RasterSurface.cpp
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\InterpolatedRotatingTriangle\CGSLab3\RasterSurface.cpp(109,29): warning C4838: conversion from 'unsigned int' to 'LONG' requires a narrowing conversion
+C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\InterpolatedRotatingTriangle\CGSLab3\RasterSurface.cpp(109,37): warning C4838: conversion from 'unsigned int' to 'LONG' requires a narrowing conversion
+  Generating Code...
+  CGSLab3.vcxproj -> C:\Users\Nolan\OneDrive\Desktop\Digital Portfolio Works\Class Assignments\InterpolatedRotatingTriangle\Debug\CGSLab3.exe
